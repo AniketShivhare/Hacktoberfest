@@ -51,3 +51,11 @@ path: `B/Beautiful.json` (first letter needs to be capitalized)
 ## Hall of Fame :fire:
 
 Check out the [Hall of Fame](https://showndarya.github.io/Hacktoberfest/Contributors_Page_Source/) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
+
+{"word":"Help",
+"definition":[
+"to do something for somebody in order to be useful or to make something easier for him/her",
+"to make something better or easier"]
+}
+This is my twitter Account
+Aniket Shivhare @AniketShivhare_ 
